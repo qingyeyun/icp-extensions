@@ -1,2 +1,2 @@
 # icp-extensions
-icp备案查询谷歌插件
+icp备案查询谷歌扩展
